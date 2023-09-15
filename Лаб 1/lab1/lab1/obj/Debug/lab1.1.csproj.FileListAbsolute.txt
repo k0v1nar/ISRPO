@@ -1,0 +1,7 @@
+H:\Разраб ПМ\Лаб 1\lab1\lab1\bin\Debug\lab1.exe.config
+H:\Разраб ПМ\Лаб 1\lab1\lab1\bin\Debug\lab1.exe
+H:\Разраб ПМ\Лаб 1\lab1\lab1\bin\Debug\lab1.pdb
+H:\Разраб ПМ\Лаб 1\lab1\lab1\obj\Debug\lab1.1.csprojAssemblyReference.cache
+H:\Разраб ПМ\Лаб 1\lab1\lab1\obj\Debug\lab1.1.csproj.CoreCompileInputs.cache
+H:\Разраб ПМ\Лаб 1\lab1\lab1\obj\Debug\lab1.exe
+H:\Разраб ПМ\Лаб 1\lab1\lab1\obj\Debug\lab1.pdb
