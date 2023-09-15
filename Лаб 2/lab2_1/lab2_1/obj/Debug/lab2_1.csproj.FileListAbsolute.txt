@@ -1,7 +1,0 @@
-H:\Разраб ПМ\Лаб 2\lab2_1\lab2_1\bin\Debug\lab2_1.exe.config
-H:\Разраб ПМ\Лаб 2\lab2_1\lab2_1\bin\Debug\lab2_1.exe
-H:\Разраб ПМ\Лаб 2\lab2_1\lab2_1\bin\Debug\lab2_1.pdb
-H:\Разраб ПМ\Лаб 2\lab2_1\lab2_1\obj\Debug\lab2_1.csprojAssemblyReference.cache
-H:\Разраб ПМ\Лаб 2\lab2_1\lab2_1\obj\Debug\lab2_1.csproj.CoreCompileInputs.cache
-H:\Разраб ПМ\Лаб 2\lab2_1\lab2_1\obj\Debug\lab2_1.exe
-H:\Разраб ПМ\Лаб 2\lab2_1\lab2_1\obj\Debug\lab2_1.pdb

@@ -1,7 +1,0 @@
-E:\колледж\3 курс\Разраб ПМ\Лаб 2\lab2_2\lab2_2\bin\Debug\lab2_2.exe.config
-E:\колледж\3 курс\Разраб ПМ\Лаб 2\lab2_2\lab2_2\bin\Debug\lab2_2.exe
-E:\колледж\3 курс\Разраб ПМ\Лаб 2\lab2_2\lab2_2\bin\Debug\lab2_2.pdb
-E:\колледж\3 курс\Разраб ПМ\Лаб 2\lab2_2\lab2_2\obj\Debug\lab2_2.csprojAssemblyReference.cache
-E:\колледж\3 курс\Разраб ПМ\Лаб 2\lab2_2\lab2_2\obj\Debug\lab2_2.csproj.CoreCompileInputs.cache
-E:\колледж\3 курс\Разраб ПМ\Лаб 2\lab2_2\lab2_2\obj\Debug\lab2_2.exe
-E:\колледж\3 курс\Разраб ПМ\Лаб 2\lab2_2\lab2_2\obj\Debug\lab2_2.pdb
